@@ -8,3 +8,14 @@ C:\Users\csb-lab\Desktop\InterestCalculator\InterestCalculator\obj\Debug\Interes
 C:\Users\csb-lab\Desktop\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
 C:\Users\csb-lab\Desktop\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.xml
 C:\Users\csb-lab\Desktop\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.xml
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.xml
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Form1.resources
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Resources.resources
+C:\Users\Gary\Documents\GitHub\Interest-Calculator\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.vbproj.GenerateResource.Cache
