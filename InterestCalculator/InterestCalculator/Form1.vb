@@ -14,7 +14,7 @@
         Dim fmtstr As String = "{0,-6} {1,12} {2,12}" 'Use for formating output.
         lstOutput.Items.Clear()
         lstOutput.Items.Add("")
-        lstOutput.Items.Add(String.Format(fmtstr, "", "Amount", "Amount"))
+        lstOutput.Items.Add(String.Format(fmtstr, "", "Simple Amount", "Compound Amount"))
 
         SimpleBeginning = InputBox("Beginning simple interest amount", "Enter beginning amount: ")
         CompoundBeginning = InputBox("Beginning compound interest amount", "Enter beginning amount: ")
@@ -26,7 +26,7 @@
 
             TotalSimple = SimpleBeginning + (SimpleBeginning * ConvertedInterest * J)
             CompoundRunningTotal = CompoundBeginning
-            TotalCompound = CompoundRunningTotal + (CompoundBeginning * (CompoundRunningTotal * ConvertedInterest * J))
+            'TotalCompound = CompoundRunningTotal + (CompoundBeginning * (CompoundRunningTotal * ConvertedInterest * J))
             lstOutput.Items.Add(String.Format(fmtstr, J, TotalSimple, TotalCompound))
 
         Next
